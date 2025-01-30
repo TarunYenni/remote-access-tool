@@ -1,0 +1,16 @@
+# Ignore build and temporary files
+build/
+CMakeCache.txt
+third_party/webrtc/lib/
+third_party/webrtc/include/
+CMakeFiles/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
+*.tmp
